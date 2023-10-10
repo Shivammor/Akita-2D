@@ -1,2 +1,3 @@
-# Atipycal-Invasion
-A 2d arcade-like game.
+# Akita
+2D game
+
